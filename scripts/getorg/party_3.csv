@@ -1,0 +1,452 @@
+device,domain,org,party
+cync-matter-plug1,api.gelighting.com,General Electric Company,3
+cync-matter-plug1,cm.gelighting.com,General Electric Company,3
+echodot4a,discovery.meethue.com,Hue,3
+consciot-matter-bulb1,global-us-mqtt.arnoo.com,arnoo.com,3
+consciot-matter-bulb1,us-mqtt.arnoo.com,arnoo.com,3
+consciot-matter-bulb1,us-smarthome.arnoo.com,arnoo.com,3
+echodot5a,discovery.meethue.com,Hue,3
+echoflex1,discovery.meethue.com,Hue,3
+govee-matter-strip,time.google.com,Google LLC,3
+eufy-hub,time.apple.com,Apple Inc.,3
+eufy-hub,p2p-cal-2.anker-in.com,anker-in.com,3
+eufy-hub,p2p-ohi-2.anker-in.com,anker-in.com,3
+amcrest-cam-wired,ftp.hostedcloudvideo.com,Identity Protection Service,3
+amcrest-cam-wired,cr-10.hostedcloudvideo.com,Identity Protection Service,3
+amcrest-cam-wired,command-13.hostedcloudvideo.com,Identity Protection Service,3
+echodot,discovery.meethue.com,Hue,3
+ikea-hub,webhook.logentries.com,Rapid7,3
+echopop,discovery.meethue.com,Hue,3
+appletv,eligibility-panelresearch.googlevideo.com,Google LLC,3
+appletv,www.youtube.com,Google LLC,3
+appletv,apis.apple.map.fastly.net,Fastly,3
+appletv,r2---sn-ab5l6nrr.googlevideo.com,Google LLC,3
+appletv,www.gstatic.com,Google LLC,3
+appletv,ocsp.pki.goog,"Charleston Road Registry, Inc.",3
+appletv,static.doubleclick.net,Google LLC,3
+appletv,_aaplcache1._tcp.unctrl.moniotr.lab,moniotr.lab,3
+appletv,local,local,3
+appletv,dns.google,"Google, Inc.",3
+appletv,clients1.google.com,Google LLC,3
+appletv,appledownload.map.fastly.net,Fastly,3
+appletv,fp2e7a.wpc.phicdn.net,phicdn.net,
+appletv,pki-goog.l.google.com,Google LLC,3
+appletv,www.google.com,Google LLC,3
+appletv,i.ytimg.com,Google LLC,3
+chromecast-googletv,sessions.bugsnag.com,Bugsnag Inc.,3
+chromecast-googletv,comet-emea.api.hbo.com,"Home Box Office, Inc.",3
+chromecast-googletv,oauth.api.hbo.com,"Home Box Office, Inc.",3
+chromecast-googletv,uts-api.itunes.apple.com,Apple Inc.,3
+chromecast-googletv,sessions.api.hbo.com,"Home Box Office, Inc.",3
+chromecast-googletv,account.production-public.tubi.io,"Tubi, Inc.",3
+chromecast-googletv,tensor.production-public.tubi.io,"Tubi, Inc.",3
+chromecast-googletv,www.yahoo.com,Yahoo Assets LLC,3
+chromecast-googletv,bag.itunes.apple.com,Apple Inc.,3
+chromecast-googletv,oauth-us.api.hbo.com,"Home Box Office, Inc.",3
+echospot,discovery.meethue.com,Hue,3
+linkind-matter-plug,global-us-ga-mqtt.arnoo.com,arnoo.com,3
+linkind-matter-plug,us-smarthome.arnoo.com,arnoo.com,3
+homepod-mini2,gld.push.samsungosp.com,samsungosp.com,3
+homepod-mini2,connectivitycheck.gstatic.com,Google LLC,3
+homepod-mini2,_meshcop._udp.openthread.thread.home.arpa,home.arpa,3
+homepod-mini2,tvplus.familyhubservice.com,"Samsung Electronics CO., Ltd",3
+homepod-mini2,connect.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+homepod-mini2,us-auth2.samsungosp.com,samsungosp.com,3
+homepod-mini2,apple borderrouter #325a._meshcop._udp.openthread.thread.home.arpa,home.arpa,3
+homepod-mini2,time.google.com,Google LLC,3
+homepod-mini2,lycraservice-pa-cam-prod.googleapis.com,Google LLC,3
+homepod-mini2,ocsp.pki.goog,"Charleston Road Registry, Inc.",3
+homepod-mini2,dns.google,"Google, Inc.",3
+homepod-mini2,trouter-us.production.nest.com,Google LLC,3
+homepod-mini2,pki-goog.l.google.com,Google LLC,3
+homepod-mini2,prd-use2-ucs.aibixby.com,Samsung Electronics,3
+homepod-mini2,ipv6.connman.net,1&1 Internet Limited,3
+homepod-mini2,ocfconnect-shard-na03-useast2.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+homepod-mini2,fp2e7a.wpc.phicdn.net,phicdn.net,3
+homepod-mini2,api.smartthings.com,"SmartThings, Inc.",3
+homepod-mini2,client.smartthings.com,"SmartThings, Inc.",3
+homepod-mini2,apis.apple.map.fastly.net,Fastly,3
+homepod-mini2,api.tizenservice.com,Identity Protection Service,3
+homepod-mini2,fp2e7a.wpc.2be4.phicdn.net,phicdn.net,3
+homepod-mini2,info.cspserver.net,"Samsung Electronics CO., Ltd",3
+homepod-mini2,api.weather.com,"TWC Product and Technology, LLC",3
+homepod-mini2,us-fhapi.cspserver.net,"Samsung Electronics CO., Ltd",3
+meross-plug1,time2.aliyun.com,aliyun.com,3
+meross-plug1,time3.aliyun.com,aliyun.com,3
+meross-plug1,time1.aliyun.com,aliyun.com,3
+microwave,device.d.wcacloudapi.net,Identity Protection Service,3
+orein-matter-bulb2,global-us-mqtt.arnoo.com,arnoo.com,3
+orein-matter-bulb2,us-smarthome.arnoo.com,arnoo.com,3
+smartlife-remote,m2.tuyaus.com,tuya,3
+smartlife-remote,a3.tuyaus.com,tuya,3
+switchbot-hub2,time.google.com,Google LLC,3
+viziotv,logs.netflix.com,"Netflix, Inc.",3
+viziotv,ad.doubleclick.net,Google LLC,3
+viziotv,secure.netflix.com,"Netflix, Inc.",3
+viziotv,control-zoo-dai-default.tvinteractive.tv,tvinteractive.tv,3
+viziotv,fflags.lokistore.vzolab.com,Identity Protection Service,3
+viziotv,itv-schedules.vizio-is.com,Identity Protection Service,3
+viziotv,bs.serving-sys.com,Andreas Acquisition LLC,3
+viziotv,o401343.ingest.sentry.io,"Functional Software, Inc dba Sentry",3
+viziotv,www.mediatek.com,Mediatek USA Inc.,3
+viziotv,ichnaea.netflix.com,"Netflix, Inc.",3
+viziotv,mcp.tvinteractive.tv,tvinteractive.tv,3
+viziotv,android.clients.google.com,Google LLC,3
+viziotv,vid-io-iad.springserve.com,SpringServe,3
+viziotv,vizio.adsmeasurement.com,adsmeasurement.com,3
+viziotv,api.sctv.prod.smartcasttv.com,Identity Protection Service,3
+viziotv,itv-bundles.vizio-is.com,Identity Protection Service,3
+viziotv,static.vizio-is.com,Identity Protection Service,3
+viziotv,mtalk.google.com,Google LLC,3
+viziotv,pixel.springserve.com,SpringServe,3
+viziotv,tvmeta-dynamic.tvinteractive.tv,tvinteractive.tv,3
+viziotv,customerevents.netflix.com,"Netflix, Inc.",3
+viziotv,catalog-prod.smartcasttv.com,Identity Protection Service,3
+viziotv,connectivitycheck.gstatic.com,Google LLC,3
+viziotv,www.google.com,Google LLC,3
+viziotv,www.gstatic.com,Google LLC,3
+viziotv,watchlist-prod.smartcasttv.com,Identity Protection Service,3
+viziotv,00199d0332-da.support.supportview.com,supportview.com,3
+viziotv,clients4.google.com,Google LLC,3
+viziotv,control-zoo-dtsprod.tvinteractive.tv,tvinteractive.tv,3
+viziotv,tvmetrics-staging.cognet.tv,cognet.tv,3
+viziotv,ipv4-c005-bos002-nox-isp.1.oca.nflxvideo.net,"Netflix, Inc.",3
+viziotv,nrdp51-appboot.netflix.com,"Netflix, Inc.",3
+viziotv,geo-prod.smartcasttv.com,Identity Protection Service,3
+viziotv,cdn.lokistore.vzolab.com,Identity Protection Service,3
+viziotv,vid-io-pdx.springserve.com,SpringServe,3
+viziotv,ipv6-c653-sjc002-dev-ix.1.oca.nflxvideo.net,"Netflix, Inc.",3
+viziotv,uiboot.netflix.com,"Netflix, Inc.",3
+viziotv,assets.nflxext.com,"Netflix, Inc.",3
+viziotv,time.google.com,Google LLC,3
+viziotv,clients3.google.com,Google LLC,3
+viziotv,00199d0332-drmp.support.supportview.com,supportview.com,3
+viziotv,nrdp.prod.cloud.netflix.com,"Netflix, Inc.",3
+viziotv,speedtest.oui-0x00199d.com,oui-0x00199d.com,3
+viziotv,d.agkn.com,agkn.com,3
+viziotv,clientservices.googleapis.com,Google LLC,3
+viziotv,nrdp60-appboot.netflix.com,"Netflix, Inc.",3
+viziotv,control2.tvinteractive.tv,tvinteractive.tv,3
+viziotv,tps.doubleverify.com,doubleverify.com,3
+viziotv,nrdp-ipv6.prod.ftl.netflix.com,"Netflix, Inc.",3
+viziotv,nrdp-cell4.prod.ftl.netflix.com,"Netflix, Inc.",3
+viziotv,nrdp.nccp.netflix.com,"Netflix, Inc.",3
+viziotv,cdn-0.nflximg.com,"Netflix, Inc.",3
+viziotv,mediaservices.cdn-apple.com,Apple Inc.,3
+viziotv,api-global.netflix.com,"Netflix, Inc.",3
+viziotv,occ-0-460-1001.1.nflxso.net,"Netflix, Inc.",3
+viziotv,time-a.timefreq.bldrdoc.gov,bldrdoc.gov,3
+t-philips-hub,ntp1.aliyun.com,aliyun.com,3
+t-philips-hub,time1.google.com,Google LLC,3
+t-philips-hub,time4.google.com,Google LLC,3
+t-philips-hub,ntp4.aliyun.com,aliyun.com,3
+t-philips-hub,ntp2.aliyun.com,aliyun.com,3
+t-philips-hub,ntp3.aliyun.com,aliyun.com,3
+t-philips-hub,time2.google.com,Google LLC,3
+t-philips-hub,time3.google.com,Google LLC,3
+wiz-bulb,firmware.wiz.world,Signify Holding B.V.,3
+wiz-bulb,eu.mqtt.wiz.world,Signify Holding B.V.,3
+wiz-bulb,ntp.wiz.world,Signify Holding B.V.,3
+samsungtv65-wifi,config-cd-dmgz.bamgrid.com,"BAMTECH, LLC",3
+samsungtv65-wifi,www.worldtimeserver.com,worldtimeserver.com,3
+samsungtv65-wifi,api.distribution.hulu.com,"Hulu, LLC",3
+samsungtv65-wifi,view.adjust.com,adjust.com,3
+samsungtv65-wifi,gpm.tizenservice.com,Identity Protection Service,3
+samsungtv65-wifi,uts-api.itunes.apple.com,Apple Inc.,3
+samsungtv65-wifi,mediaservices.cdn-apple.com,Apple Inc.,3
+samsungtv65-wifi,http-intake.logs.datadoghq.eu,datadoghq.eu,3
+samsungtv65-wifi,bag.itunes.apple.com,Apple Inc.,3
+samsungtv65-wifi,api.sesupdate.com,Identity Protection Service,3
+samsungtv65-wifi,rtb.adgrx.com,adgrx.com,3
+samsungtv65-wifi,www.ueiwsp.com,ueiwsp.com,3
+samsungtv65-wifi,samsungads.adsmeasurement.com,adsmeasurement.com,3
+samsungtv65-wifi,log-api.newrelic.com,newrelic.com,3
+samsungtv65-wifi,sam.disco.peacocktv.com,DNStination Inc.,3
+samsungtv65-wifi,www.yahoo.com,Yahoo Assets LLC,3
+samsungtv65-wifi,reverselookup.quicksetcloud.com,,3
+samsungtv65-wifi,dss-hydra-feeds-prod.bamgrid.com,"BAMTECH, LLC",3
+samsungtv65-wifi,cdn-stv.adgrx.com,adgrx.com,3
+samsungtv65-wifi,www.google.com,Google LLC,3
+samsungtv65-wifi,edito-mgr.blacknut.com,Blacknut,3
+samsungtv65-wifi,tvx.adgrx.com,adgrx.com,3
+samsungtv65-wifi,api.tizenservice.com,Identity Protection Service,3
+facebook-portal-mini,apis.google.com,Google LLC,3
+facebook-portal-mini,time.android.com,Google LLC,3
+facebook-portal-mini,v.whatsapp.net,WhatsApp LLC,3
+facebook-portal-mini,safebrowsing.googleapis.com,Google LLC,3
+facebook-portal-mini,accounts.google.com,Google LLC,3
+facebook-portal-mini,static.doubleclick.net,Google LLC,3
+facebook-portal-mini,optimizationguide-pa.googleapis.cf,googleapis.cf,3
+facebook-portal-mini,adservice.google.com,Google LLC,3
+facebook-portal-mini,content-autofill.googleapis.com,Google LLC,3
+facebook-portal-mini,ogs.google.com,Google LLC,3
+facebook-portal-mini,exploresites-pa.googleapis.com,Google LLC,3
+facebook-portal-mini,m.youtube.com,Google LLC,3
+facebook-portal-mini,googleads.g.doubleclick.net,Google LLC,3
+facebook-portal-mini,connectivitycheck.gstatic.com,Google LLC,3
+facebook-portal-mini,www.google.com,Google LLC,3
+facebook-portal-mini,www.gstatic.com,Google LLC,3
+facebook-portal-mini,ssl.gstatic.com,Google LLC,3
+facebook-portal-mini,www.youtube.com,Google LLC,3
+facebook-portal-mini,update.googleapis.com,Google LLC,3
+facebook-portal-mini,i.ytimg.com,Google LLC,3
+facebook-portal-mini,upload.wikimedia.org,"Wikimedia Foundation, Inc.",3
+facebook-portal-mini,fonts.gstatic.com,Google LLC,3
+facebook-portal-mini,ipv4only.arpa,ipv4only.arpa,3
+facebook-portal-mini,optimizationguide-pa.googleapis.com,Google LLC,3
+facebook-portal-mini,play.googleapis.com,Google LLC,3
+facebook-portal-mini,play.google.com,Google LLC,3
+facebook-portal-mini,chromeupboarding-pa.googleapis.com,Google LLC,3
+facebook-portal-mini,google.com,Google LLC,3
+facebook-portal-mini,dns.google,"Google, Inc.",3
+facebook-portal-mini,clientservices.googleapis.com,Google LLC,3
+facebook-portal-mini,content-autill.googleapis.comof,googleapis.comof,3
+facebook-portal-mini,lh3.googleusercontent.com,Google LLC,3
+facebook-portal-mini,yt3.ggpht.com,Google LLC,3
+facebook-portal-mini,en.m.wikipedia.org,"Wikimedia Foundation, Inc.",3
+smartlife-matter-hub,connect.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,info.cspserver.net,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,prd-use2-ucs.aibixby.com,Samsung Electronics,3
+smartlife-matter-hub,us-auth2.samsungosp.com,samsungosp.com,3
+smartlife-matter-hub,ipv6.connman.net,1&1 Internet Limited,3
+smartlife-matter-hub,api.samsungcloud.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,fhstatic.cspserver.net,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,api.weather.com,"TWC Product and Technology, LLC",3
+smartlife-matter-hub,h2.iot-dns.com,iot-dns.com,3
+smartlife-matter-hub,m2.tuyaus.com,tuya,3
+smartlife-matter-hub,gpm.tizenservice.com,Identity Protection Service,3
+smartlife-matter-hub,a2.tuyaus.com,tuya,3
+smartlife-matter-hub,ocfconnect-shard-na03-useast2.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,api.tizenservice.com,Identity Protection Service,3
+smartlife-matter-hub,us-fhapi.cspserver.net,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,tvplus.familyhubservice.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,gld.push.samsungosp.com,samsungosp.com,3
+smartlife-matter-hub,api.smartthings.com,"SmartThings, Inc.",3
+smartlife-matter-hub,fhapi.cspserver.net,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,bixby-client.aibixby.com,Samsung Electronics,3
+smartlife-matter-hub,client.smartthings.com,"SmartThings, Inc.",3
+smartlife-matter-hub,log.samsunghrm.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,gpm.samsungqbe.com,"Samsung Electronics CO., Ltd",3
+smartlife-matter-hub,prd-use2-user.aibixby.com,Samsung Electronics,3
+nest-camera,pki.goog,"Charleston Road Registry, Inc.",3
+echoshow5,resizer.otstatic.com,"OpenTable, Inc.",3
+echoshow5,media-cdn.tripadvisor.com,TripAdvisor LLC,3
+echoshow5,amvi.b-cdn.net,"Domain Protection Services, Inc.",3
+aeotec-hub,ipv6.connman.net,1&1 Internet Limited,3
+aeotec-hub,www.google.com,Google LLC,3
+aeotec-hub,api.weather.com,"TWC Product and Technology, LLC",3
+aeotec-hub,gpm.tizenservice.com,Identity Protection Service,3
+aeotec-hub,ipv4.connman.net,1&1 Internet Limited,3
+aeotec-hub,api.tizenservice.com,Identity Protection Service,3
+echoshow8,hybridupdate.zoom.us,"Zoom Video Communications, Inc.",3
+echoshow8,resizer.otstatic.com,"OpenTable, Inc.",3
+echoshow8,www.tripadvisor.com,TripAdvisor LLC,3
+echoshow8,ipv4only.arpa,ipv4only.arpa,3
+echoshow8,media-cdn.tripadvisor.com,TripAdvisor LLC,3
+echoshow8,discovery.meethue.com,Hue,3
+echoplus,discovery.meethue.com,Hue,3
+firetv,sessions.bugsnag.com,Bugsnag Inc.,3
+firetv,www.msftncsi.com,Microsoft Corporation,3
+firetv,clients3.google.com,Google LLC,3
+firetv,google.com,Google LLC,3
+firetv,api.auth.adobe.com,Adobe Inc.,3
+tivostream,sessions.bugsnag.com,Bugsnag Inc.,3
+tivostream,www.ueiwsp.com,ueiwsp.com,3
+tivostream,canvas.tubitv.com,"Tubi, Inc.",3
+tivostream,env.skywayplatform.com,Identity Protection Service,3
+tivostream,aptime.movetv.com,Privacy service provided by Withheld for Privacy ehf,3
+tivostream,stz1.imgix.net,Zebrafish Labs,3
+tivostream,ip-api.com,Whois Privacy Corp.,3
+tivostream,www.sling.com,DISH Network LLC,3
+tivostream,boot.pluto.tv,Pluto Inc.,3
+tivostream,images.pluto.tv,Pluto Inc.,3
+tivostream,dpm.demdex.net,Adobe Inc.,3
+tivostream,api.segment.io,Twilio Inc.,3
+tivostream,dishanalyticsandtesting.sc.omtrdc.net,Adobe Inc.,3
+tivostream,account.production-public.tubi.io,"Tubi, Inc.",3
+tivostream,p-geo.movetv.com,Privacy service provided by Withheld for Privacy ehf,3
+tivostream,kvinit-prod.api.kochava.com,kochava.com,3
+tivostream,service-media-catalog.clusters.pluto.tv,Pluto Inc.,3
+tivostream,pms.rrioo.com,rrioo.com,3
+tivostream,webapp.movetv.com,Privacy service provided by Withheld for Privacy ehf,3
+tivostream,tensor.production-public.tubi.io,"Tubi, Inc.",3
+tivostream,www.yahoo.com,Yahoo Assets LLC,3
+tivostream,www.evodevicemanager.com,Identity Protection Service,3
+tivostream,control.kochava.com,kochava.com,3
+tivostream,p-cg64-slinganalytics.movetv.com,Privacy service provided by Withheld for Privacy ehf,3
+tivostream,api-deviq.prod.tivoservice.com.unctrl.moniotr.lab,moniotr.lab,3
+tivostream,mqtt.evodevicemanager.com,Identity Protection Service,3
+tivostream,sb.scorecardresearch.com,"TMRG, Inc",3
+tivostream,cdn-settings.segment.com,Twilio Inc.,3
+tivostream,service-channels.clusters.pluto.tv,Pluto Inc.,3
+google-home-mini,pki.goog,"Charleston Road Registry, Inc.",3
+google-nest-mini1,pki.goog,"Charleston Road Registry, Inc.",3
+nest-hub,prd-use2-ucs.aibixby.com,Samsung Electronics,3
+nest-hub,secure.netflix.com,"Netflix, Inc.",3
+nest-hub,ipv6.connman.net,1&1 Internet Limited,3
+nest-hub,ichnaea.netflix.com,"Netflix, Inc.",3
+nest-hub,ocfconnect-shard-na03-useast2.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub,gld.push.samsungosp.com,samsungosp.com,3
+nest-hub,customerevents.netflix.com,"Netflix, Inc.",3
+nest-hub,sem.samsungcpm.com,"Samsung Electronics CO., Ltd",3
+nest-hub,api.samsungcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub,tvplus.familyhubservice.com,"Samsung Electronics CO., Ltd",3
+nest-hub,api.smartthings.com,"SmartThings, Inc.",3
+nest-hub,client.smartthings.com,"SmartThings, Inc.",3
+nest-hub,nrdp51-appboot.netflix.com,"Netflix, Inc.",3
+nest-hub,connect.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub,us-auth2.samsungosp.com,samsungosp.com,3
+nest-hub,gpm.tizenservice.com,Identity Protection Service,3
+nest-hub,time.samsungcloudsolution.com,"Samsung Electronics Co., Ltd.",3
+nest-hub,uiboot.netflix.com,"Netflix, Inc.",3
+nest-hub,api.tizenservice.com,Identity Protection Service,3
+nest-hub,pki.goog,"Charleston Road Registry, Inc.",3
+nest-hub,nrdp.prod.cloud.netflix.com,"Netflix, Inc.",3
+nest-hub,bixby-client.aibixby.com,Samsung Electronics,3
+nest-hub,log.samsunghrm.com,"Samsung Electronics CO., Ltd",3
+nest-hub,gpm.samsungqbe.com,"Samsung Electronics CO., Ltd",3
+nest-hub,info.cspserver.net,"Samsung Electronics CO., Ltd",3
+nest-hub,api.weather.com,"TWC Product and Technology, LLC",3
+nest-hub,nrdp-cell4.prod.ftl.netflix.com,"Netflix, Inc.",3
+nest-hub,nrdp.nccp.netflix.com,"Netflix, Inc.",3
+nest-hub,us-fhapi.cspserver.net,"Samsung Electronics CO., Ltd",3
+nest-hub,cdn-0.nflximg.com,"Netflix, Inc.",3
+nest-hub,api-global.netflix.com,"Netflix, Inc.",3
+nest-hub,en.m.wikipedia.org,"Wikimedia Foundation, Inc.",3
+nest-hub-max,api.distribution.hulu.com,"Hulu, LLC",3
+nest-hub-max,secure.netflix.com,"Netflix, Inc.",3
+nest-hub-max,prd-use2-ucs.aibixby.com,Samsung Electronics,3
+nest-hub-max,assets.adobedtm.com,Adobe Inc.,3
+nest-hub-max,ipv6.connman.net,1&1 Internet Limited,3
+nest-hub-max,cdn.polyfill.io,Privacy service provided by Withheld for Privacy ehf,3
+nest-hub-max,cdn.confiant-integrations.net,Confiant,3
+nest-hub-max,ichnaea.netflix.com,"Netflix, Inc.",3
+nest-hub-max,ocfconnect-shard-na03-useast2.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,gld.push.samsungosp.com,samsungosp.com,3
+nest-hub-max,eum.instana.io,International Business Machines Corporation,3
+nest-hub-max,customerevents.netflix.com,"Netflix, Inc.",3
+nest-hub-max,sem.samsungcpm.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,api.samsungcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,tvplus.familyhubservice.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,api.smartthings.com,"SmartThings, Inc.",3
+nest-hub-max,client.smartthings.com,"SmartThings, Inc.",3
+nest-hub-max,nrdp51-appboot.netflix.com,"Netflix, Inc.",3
+nest-hub-max,connect.samsungiotcloud.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,us-auth2.samsungosp.com,samsungosp.com,3
+nest-hub-max,gpm.tizenservice.com,Identity Protection Service,3
+nest-hub-max,time.samsungcloudsolution.com,"Samsung Electronics Co., Ltd.",3
+nest-hub-max,uiboot.netflix.com,"Netflix, Inc.",3
+nest-hub-max,api.tizenservice.com,Identity Protection Service,3
+nest-hub-max,pki.goog,"Charleston Road Registry, Inc.",3
+nest-hub-max,nrdp.prod.cloud.netflix.com,"Netflix, Inc.",3
+nest-hub-max,bixby-client.aibixby.com,Samsung Electronics,3
+nest-hub-max,log.samsunghrm.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,prd-use2-user.aibixby.com,Samsung Electronics,3
+nest-hub-max,gpm.samsungqbe.com,"Samsung Electronics CO., Ltd",3
+nest-hub-max,info.cspserver.net,"Samsung Electronics CO., Ltd",3
+nest-hub-max,www.weather.com,"TWC Product and Technology, LLC",3
+nest-hub-max,time.samsungcloudsolution.net,"Samsung Electronics CO., Ltd",3
+nest-hub-max,api.weather.com,"TWC Product and Technology, LLC",3
+nest-hub-max,weather.com,"TWC Product and Technology, LLC",3
+nest-hub-max,nrdp-cell4.prod.ftl.netflix.com,"Netflix, Inc.",3
+nest-hub-max,nrdp.nccp.netflix.com,"Netflix, Inc.",3
+nest-hub-max,www.worldtimeserver.com,worldtimeserver.com,3
+nest-hub-max,micro.rubiconproject.com,rubiconproject.com,3
+nest-hub-max,us-fhapi.cspserver.net,"Samsung Electronics CO., Ltd",3
+nest-hub-max,cdn-0.nflximg.com,"Netflix, Inc.",3
+nest-hub-max,mediaservices.cdn-apple.com,Apple Inc.,3
+nest-hub-max,api-global.netflix.com,"Netflix, Inc.",3
+nest-hub-max,s.w-x.co,"The Weather Company, LLC",3
+samsung-fridge,ipv6.connman.net,1&1 Internet Limited,3
+samsung-fridge,api.tizenenterprise.com,Identity Protection Service,3
+samsung-fridge,accounts.google.com,Google LLC,3
+samsung-fridge,cdn-public-te-prod-use1.tizenenterprise.com,Identity Protection Service,3
+samsung-fridge,youtub.com,Google LLC,3
+samsung-fridge,www.google.com,Google LLC,3
+samsung-fridge,ssl.gstatic.com,Google LLC,3
+samsung-fridge,kics-epa-stg.samsungepa.com,Identity Protection Service,3
+samsung-fridge,kics-epa.samsungepa.com,Identity Protection Service,3
+samsung-fridge,cloudinary-cdn.whisk.com,whisk.com,3
+samsung-fridge,api.sesupdate.com,Identity Protection Service,3
+samsung-fridge,gpm.tizenservice.com,Identity Protection Service,3
+samsung-fridge,ipv4.connman.net,1&1 Internet Limited,3
+samsung-fridge,api.tizenservice.com,Identity Protection Service,3
+samsung-fridge,clients1.google.com,Google LLC,3
+samsung-fridge,google.com,Google LLC,3
+samsung-fridge,api.weather.com,"TWC Product and Technology, LLC",3
+samsung-fridge,id.google.com,Google LLC,3
+samsung-fridge,cdn-public-ustore-prod-use1.tizenservice.com,Identity Protection Service,3
+samsung-fridge,youtube.com,Google LLC,3
+samsung-fridge,cdn.whisk.com,whisk.com,3
+samsung-fridge,en.m.wikipedia.org,"Wikimedia Foundation, Inc.",3
+august-lock,18e5676033e5038244f3-95ff4fd03d2fef15e265c99f885ca352.ssl.cf1.rackcdn.com,"Rackspace US, Inc.",3
+brewer,productapi.dadolabs.com,dadolabs.com,3
+arlo-q-cam,arlostreaming676-z2-prod.ar.arlo.com,,3
+arlo-q-cam,xbroker-z2-i2.arloxcld.com,"Arlo Technologies, Inc.",3
+arlo-q-cam,deviceapi.messaging.arlo.com,arlo.com,3
+arlo-q-cam,mcs.arlo.com,arlo.com,3
+arlo-q-cam,arlostatic-z2.arlo.com,,3
+arlo-q-cam,arlostreaming20619-z2-prod.ar.arlo.com,,3
+arlo-q-cam,registration.arloxcld.com,"Arlo Technologies, Inc.",3
+arlo-q-cam,time.google.com,Google LLC,3
+arlo-q-cam,arlos3-prod-z2.arlo.com,,3
+arlo-q-cam,presence.arloxcld.com,"Arlo Technologies, Inc.",3
+arlo-q-cam,updates.arlo.com,arlo.com,3
+arlo-q-cam,advisor.arloxcld.com,"Arlo Technologies, Inc.",3
+arlo-q-cam,xbroker-z2-i10.arloxcld.com,"Arlo Technologies, Inc.",3
+arlo-q-cam,ntp.arlo.com,arlo.com,3
+arlo-q-cam,xbroker-z2-i9.arloxcld.com,"Arlo Technologies, Inc.",3
+ikettle,prd04a.boxen.electricimp.com,electricimp.com,3
+icsee-doorbell,secu100.net,secu100.net,3
+icsee-doorbell,time.windows.com,Microsoft Corporation,3
+icsee-doorbell,ntp-sz.chl.la,chl.la,3
+icsee-doorbell,logsvr.xmcsrv.net,xmcsrv.net,3
+icsee-doorbell,host: wos-na-nor-31.s3-us-east-1.wcsapi.com,wcsapi.com,3
+icsee-doorbell,wos-na-nor-31.s3-us-east-1.wcsapi.com,wcsapi.com,3
+icsee-doorbell,pub-cfg.secu100.net,secu100.net,3
+icsee-doorbell,caps.xmcsrv.net,xmcsrv.net,3
+keyco-air,keycoiot.solu-m.com,Whois Domain Admin.,3
+microseven-camera,time.windows.com,Microsoft Corporation,3
+ring-camera,wu.ring.com,"A9.com, Inc.",3
+ring-camera,cocoa.ring.com,"A9.com, Inc.",3
+ring-camera,devices.oauth.ring.com,"A9.com, Inc.",3
+ring-camera,iperf3-v2-root.prod.ring.net,"A9.com, Inc.",3
+ring-camera,fw.ring.com,"A9.com, Inc.",3
+ring-camera,ping.ring.com,"A9.com, Inc.",3
+ring-camera,fw-eventstream.ring.com,"A9.com, Inc.",3
+ring-chime1,fw-ch.ring.com,"A9.com, Inc.",3
+ring-chime1,es.ring.com,"A9.com, Inc.",3
+ring-chime1,ch.ring.com,"A9.com, Inc.",3
+ring-doorbell-wired,devices.oauth.ring.com,"A9.com, Inc.",3
+ring-doorbell-wired,grahamcracker.ring.com,"A9.com, Inc.",3
+ring-doorbell-wired,fw.ring.com,"A9.com, Inc.",3
+ring-doorbell-wired,es.ring.com,"A9.com, Inc.",3
+ring-doorbell-wired,iperf.ring.com,"A9.com, Inc.",3
+ring-doorbell,wu.ring.com,"A9.com, Inc.",3
+ring-doorbell,devices.oauth.ring.com,"A9.com, Inc.",3
+ring-doorbell,fw.ring.com,"A9.com, Inc.",3
+ring-doorbell,rss-dpd-service.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,prdw-time-us.prd.rings.solutions,"A9.com, Inc.",3
+ring-indoor-cam,stickupcammini.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,fw.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,time1.google.com,Google LLC,3
+ring-indoor-cam,fw-eventstream.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,iperf.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,devices.oauth.ring.com,"A9.com, Inc.",3
+ring-indoor-cam,time2.google.com,Google LLC,3
+ring-indoor-cam,iperf3-v2-root.prod.ring.net,"A9.com, Inc.",3
+ring-indoor-cam,ping.ring.com,"A9.com, Inc.",3
+tplink-bulb,time.nist.gov,nist.gov,3
+tplink-plug,s1b.time.edu.cn,edu.cn,3
+tplink-plug,s1a.time.edu.cn,edu.cn,3
+roku-tv,securepubads.g.doubleclick.net,Google LLC,3
+roku-tv,roku.adsmeasurement.com,adsmeasurement.com,3
+roku-tv,tpc.googlesyndication.com,Google LLC,3
+roku-tv,mediaservices.cdn-apple.com,Apple Inc.,3
+yeelight-bulb,us.ott.io.mi.com,XIAOMI INC,3
+yeelight-bulb,us.ot.io.mi.com,XIAOMI INC,3
+wyze-cam,us-d-master-71m81mu43dc8pa21ddga.iotcplatform.com,iotcplatform,3
+wyze-cam,us-d-master-tutk.iotcplatform.com,iotcplatform,3
+wyze-cam,rest.cache.cell-2-us-west-2-1.prod.a.momentohq.com,,3
+wyze-cam,clock.fmt.he.net,Hurricane Electric Hostmaster,3
+tplink-camera,8.8.8.8,Google LLC (GOGL),3

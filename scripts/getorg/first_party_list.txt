@@ -1,0 +1,129 @@
+amcrest-cam-wired Amcrest
+brewer Behmor
+echodot Amazon AWS Alexa Echo
+echoplus Amazon AWS Alexa Echo
+echospot Amazon AWS Alexa Echo
+firetv Amazon AWS Alexa Echo Netflix
+google-home-mini Google gstatic nest goog
+ikettle Smarter
+lefun-cam-wired Lefun
+microseven-camera Microseven
+microwave GE
+nest-tstat Nest Google gstatic nest goog
+ring-doorbell Ring Amazon AWS Alexa Echo
+roku-tv Roku Netflix
+smartthings-hub Samsung smartthing
+sousvide Anova
+t-philips-hub philips hue
+t-wemo-plug wemo Belkin
+tplink-bulb tplink tp-link tapo
+tplink-plug tplink tp-link tapo
+wansview-cam-wired 
+yi-camera yi
+appletv Apple homepod homekit Netflix
+appletv-wifi Apple homepod homekit Netflix
+sengled-hub sengled
+sengled-hub-spoofed sengled
+amazon-plug Amazon AWS Alexa Echo
+aqara-hub Aqara Xiaomi
+bulb1 Flux Jinvoo tuya
+chromecast-googletv Google gstatic nest Netflix goog
+dlink-camera Dlink d-link
+echodot3a Amazon AWS Alexa Echo
+echoflex1 Amazon AWS Alexa Echo
+echoshow5 Amazon AWS Alexa Echo
+fridge Samsung smartthing
+google-nest-mini1 Google gstatic nest goog
+gosund-bulb1 Gosund Tuya
+govee-led1 Govee
+homepod-mini1 Apple homepod homekit
+icsee-doorbell Icsee
+ikea-hub Ikea
+keyco-air keyco
+lgtv-wired LG Netflix
+magichome-strip magichome Magic Tuya
+meross-dooropener Meross
+ring-camera Ring Amazon AWS Alexa Echo
+ring-chime1 Ring Amazon AWS Alexa Echo
+switchbot-hub switchbot
+thermopro-sensor thermopro tuya
+tivostream Google Tivo gstatic nest Netflix goog
+tuya-camera Tuya
+wyze-cam wyze
+samsungtv-wired Samsung smartthing Netflix
+samsungtv-wifi Samsung smartthing Netflix
+arlo-q-cam Alro
+blink-doorbell Blink
+blueair-purifier Blueair
+dryer Samsung smartthing
+echodot4a Amazon AWS Alexa Echo
+echodot5a Amazon AWS Alexa Echo
+echoshow8 Amazon AWS Alexa Echo
+facebook-portal-mini facebook meta
+homepod Apple homepod homekit
+meross-plug1 Meross
+nest-camera Nest Google gstatic goog
+nest-doorbell Nest Google gstatic goog
+nest-hub Nest Google gstatic goog
+nest-hub-max Nest Google gstatic goog
+nintendo-switch nintendo
+oxylink Oxy vihealth
+renpho-scale renpho
+ring-doorbell-wired Ring Amazon AWS Alexa Echo
+ring-indoor-cam Ring Amazon AWS Alexa Echo
+sengled-bulb Sengled
+ubell-doorbell ubell
+washer Samsung smartthing
+wink-hub2 wink 
+withings-sleep Withings
+wiz-bulb wiz
+yeelight-bulb yeelight
+aeotec-hub Samsung smartthing
+arlo-doorbell Arlo
+blink-security-hub Blink
+dlink-mov Dlink d-link
+echopop Amazon AWS Alexa Echo
+govee-matter-strip Govee
+invoke harmankardon Microsoft
+meross-matter-plug1 Meross
+orein-matter-bulb2 Orein
+philips-bulb philips hue
+samsung-fridge Samsung smartthing
+smartlife-bulb smartlife tuya
+smartlife-remote smartlife tuya
+tplink-camera tplink tp-link tapo
+tplink-tapo-plug tplink tp-link tapo
+withings-bpm Withings
+withings-thermo Withings
+eufy-hub Eufy
+eufy-hub-wifi Eufy
+samsungtv65-wifi Samsung smartthing Netflix
+samsungtv65-wired Samsung smartthing Netflix
+3r-zb-matter-bridge 3r 3rd Reality 
+aqara-hub-m2-wired Aqara Xiaomi
+august-connect august
+august-lock august
+blink-camera blink
+blink-camera3 blink
+cloudcam Amazon AWS Alexa Echo
+consciot-matter-bulb1 Consciot
+cync-matter-plug1 cync
+dishwasher LG thinq
+insteon-hub insteon
+leviton-matter-plug leviton
+lightify-hub lightify
+linkind-matter-plug linkind
+luohe-spycam luohe
+luohe-spycam2 luohe
+miele-dishwasher Miele
+moes-matter-plug moes tuya
+reolink-cam-e1-wired reolink
+sengled-matter-bulb sengled
+smartlife-bulb2 smartlife tuya
+smartlife-matter-hub smartlife tuya
+switchbot-hub2 switchbot
+tapo-matter-bulb tapo tplink tp-link
+tuya-matter-plug tuya
+viziotv Vizio
+zmodo-camera zmodo
+zmodo-doorbell zmodo
