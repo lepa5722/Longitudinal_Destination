@@ -1,0 +1,30 @@
+MAC_ADDRESS_FILE: './devices.txt'
+dataset_root_path: '/net/data/iot-longitudinal/datasets'
+device_list_path: '/net/data/iot-longitudinal/input_device_list'
+Testing: FALSE
+DNS_ADDRESS:
+  - 8.8.8.8
+  - 8.8.4.4
+  - 155.33.33.70
+  - 155.33.33.75
+ROUTER_MAC: 36:22:7b:87:51:6f
+# ---all_devices_remove_duplicates
+IP_CONFIGS:
+  device_dataset: 'all_devices_remove_duplicates'
+  exp_year:
+    - '2019'
+    - '2021'
+    - '2022'
+    - '2023'
+    - '2024'
+  exp_year_optional_month:
+    - '2019'
+    - '2021'
+    - '2022-aug'
+    - '2022-nov'
+    - '2023'
+    - '2024-summer'
+  experiments:
+    - 'power'
+    - 'activity'
+    - 'idle'
